@@ -55,7 +55,7 @@ Let's build a secure and intelligent future together! 🚀
 
 ## Education
 - ** Bsc(hons)in Software Engineering**, African Leadership University, 2026
-- **[Relevant Coursework or Certifications]**
+- **Google Professional Cybersecurity Certification Progam**
 
 ## Contact
 - **Email**: wadotiwawil@gmail.com
