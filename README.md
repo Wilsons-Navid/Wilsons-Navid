@@ -11,25 +11,26 @@ In every project I undertake, I strive to blend innovation with practicality, en
 Let's build a secure and intelligent future together! 🚀
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, C++, Flutter, Django, Ruby
+- **Programming Languages**: Python, JavaScript, C++, Flutter, Django, Ruby, C, C#
 - **Machine Learning**: TensorFlow, Keras, Scikit-learn, PyTorch
 - **Cybersecurity**: Penetration Testing, Network Security, Cryptography, Ethical Hacking, Incident Response
 - **Software Development**: Full-Stack Development, Agile Methodologies, DevOps, RESTful APIs, SSH
-- **Tools and Technologies**: Docker, Kubernetes, AWS, Git, VScode, VM
+- **Tools and Technologies**: Docker, Kubernetes, AWS, Git, VScode, VM, SIFT
 
 ## Portfolio
 
-### [Project Name 1]
-**Description**: A brief description of what the project is about, its goals, and why it is important.
-- **Technologies Used**: List the main technologies, frameworks, and tools used.
-- **Key Features**: Highlight the main functionalities of the project.
-- **Link**: [GitHub Repository](https://github.com/yourusername/project1)
+### AGRI-MENTOR
+**Description**: Agrimentor is a  farmer mentoring application that provides farmers and agriculturalist with expert on the spot recommendations based on real-time data related to, but not limited to, soil, 
+    atmopheric conditios, and most importantly, market trends.
+- **Technologies Used**: Python and  SQL
+- **Key Features**: expert monitoring, and recommendation based on soil, climate and market conditions!
+- **Link**: https://github.com/Wilsons-Navid/AGRI-MENTOR
 
-### [Project Name 2]
-**Description**: A brief description of what the project is about, its goals, and why it is important.
-- **Technologies Used**: List the main technologies, frameworks, and tools used.
-- **Key Features**: Highlight the main functionalities of the project.
-- **Link**: [GitHub Repository](https://github.com/yourusername/project2)
+### RETHICS
+**Description**: Rethics is a platform that enables the Users to report  cybercrimes, and the solution is intend provided.
+- **Technologies Used**: Reactjs, EmailJs API, SQL
+- **Key Features**: Expert account recovery, scam detection.
+- **Link**: [GitHub Repository]https://https://github.com/Wilsons-Navid/AGRI-MENTOR
 
 ### [Project Name 3]
 **Description**: A brief description of what the project is about, its goals, and why it is important.
@@ -53,13 +54,13 @@ Let's build a secure and intelligent future together! 🚀
 - Include specific projects or initiatives you led or contributed to.
 
 ## Education
-- **[Degree] in [Field of Study]**, [University Name], [Year of Graduation]
+- ** Bsc(hons)in Software Engineering**, African Leadership University, 2026
 - **[Relevant Coursework or Certifications]**
 
 ## Contact
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [GitHub Profile](https://github.com/yourusername)
+- **Email**: wadotiwawil@gmail.com
+- **LinkedIn**: linkedin.com/in/wilsons-navid
+- **GitHub**: https://github.com/Wilsons-Navid
 
 ## Blog
 [Optional section if you write about topics in cybersecurity, machine learning, or software development]
