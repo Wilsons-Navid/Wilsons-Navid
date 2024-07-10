@@ -30,13 +30,13 @@ Let's build a secure and intelligent future together! 🚀
 **Description**: Rethics is a platform that enables the Users to report  cybercrimes, and the solution is intend provided.
 - **Technologies Used**: Reactjs, EmailJs API, SQL
 - **Key Features**: Expert account recovery, scam detection.
-- **Link**: https://https://github.com/Wilsons-Navid/AGRI-MENTOR
+- **Link**: https://wilsons-rethics-app.netlify.app
 
 ### Professional-Portfolio-Website
 **Description**: A portfolio design using leading javascript and React purposes.
 - **Technologies Used**: Reactjs, framer-motion.
-- **Key Features**: Uses front end advanced development techniques to prosuce beatiful animations
-- **Link**: https://github.com/yourusername/project3
+- **Key Features**: Uses adavanced animation techniques to create avisually appealing websites.
+- **Link**: https://wilsons-portfolio-react.netlify.app
 
 ## Experience
 ### [Job Title] at [Company Name]
