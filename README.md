@@ -1,5 +1,5 @@
 
-# [Wilsons Navid]'s Portfolio
+# Wilsons Navid's Portfolio
 
 ## About Me
 Hello! I'm Wilsons Navid, a visionary technologist driven by the fascinating confluence of cybersecurity 🛡️, machine learning 🤖, and software development 💻. My journey in technology began with a simple curiosity about how things work and has blossomed into a profound passion for creating secure, intelligent, and transformative solutions.
