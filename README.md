@@ -59,7 +59,7 @@ Let's build a secure and intelligent future together! 🚀
 
 ## Contact
 - **Email**: wadotiwawil@gmail.com
-- **LinkedIn**: linkedin.com/in/wilsons-navid
+- **LinkedIn**: https://linkedin.com/in/wilsons-navid
 - **GitHub**: https://github.com/Wilsons-Navid
 
 ## Blog
