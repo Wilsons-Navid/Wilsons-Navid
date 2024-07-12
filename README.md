@@ -63,7 +63,7 @@ Let's build a secure and intelligent future together! 🚀
 - Include specific projects or initiatives you led or contributed to.
 
 ## Education
-- ** Bsc(hons)in Software Engineering**, African Leadership University, 2026
+- **Bsc(hons)in Software Engineering**, **African Leadership University, 2026**
 - **Google Professional Cybersecurity Certification Progam**
 
 ## Contact
