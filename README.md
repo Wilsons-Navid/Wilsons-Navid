@@ -26,6 +26,12 @@ Let's build a secure and intelligent future together! 🚀
 - **Key Features**: expert monitoring, and recommendation based on soil, climate and market conditions!
 - **Link**: https://github.com/Wilsons-Navid/AGRI-MENTOR
 
+### Phone_number_tracker
+**Description**: A program which collects users contact number as input, and points to the exact location of the number on the map.
+- **Technologies Used**: OpenCage Geocording api api, folium, phonenumbers, python.
+- **Key Features**: collects input, and tracks the location on a map.
+- **Link**: https://github.com/Wilsons-Navid/Trackers/tree/main/Phone_number_tracker
+  
 ### RETHICS
 **Description**: Rethics is a platform that enables the Users to report  cybercrimes, and the solution is intend provided.
 - **Technologies Used**: Reactjs, EmailJs API, SQL
@@ -39,12 +45,15 @@ Let's build a secure and intelligent future together! 🚀
 - **Link**: https://wilsons-portfolio-react.netlify.app
 
 ## Experience
-### [Job Title] at [Company Name]
-**Duration**: [Start Date] - [End Date]
+### Cybersecuirty Engineering intern at Cybersecurity Council For Operations And Intelligence
+**Duration**: May - August
 
 **Responsibilities**:
-- Bullet points describing your main responsibilities and achievements.
-- Include specific projects or initiatives you led or contributed to.
+-  Conduct vulnerability assessments and penetration testing.   
+-  Work with the team to identify and mitigate security risks.   
+-  Monitor and analyze security logs and alerts.   
+-  Assist in incident response and disaster recovery efforts.   
+-  Stay up to date with industry trends and best practices in cloud security   
 
 ### [Job Title] at [Company Name]
 **Duration**: [Start Date] - [End Date]
