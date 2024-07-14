@@ -60,15 +60,16 @@ Let's build a secure and intelligent future together! 🚀
 -  Work with the team to identify and mitigate security risks.   
 -  Monitor and analyze security logs and alerts.   
 -  Assist in incident response and disaster recovery efforts.   
--  Stay up to date with industry trends and best practices in cloud security   
+-  Stay up to date with industry trends and best practices in cloud security
 
-### [Job Title] at [Company Name]
-**Duration**: [Start Date] - [End Date]
+   
+### Cybersecurity analyst at Mastercard Foundation Virtual Experience Program
+**Duration**: July 2024
 
 **Responsibilities**:
-- Bullet points describing your main responsibilities and achievements.
-- Include specific projects or initiatives you led or contributed to.
-
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+- Helped identify and report security threats such as phishing 
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
 ## Education
 - **Bsc(hons)in Software Engineering**, **African Leadership University, 2026**
 - **Google Professional Cybersecurity Certification Progam**
