@@ -2,7 +2,7 @@
 # Wilsons Navid's Portfolio
 
 ## About Me
-I'm Wilsons Navid, a final-year Software Engineering student at the African Leadership University, specializing in machine learning. I also work in cybersecurity and software development.
+I'm Wilsons Navid, a final-year Software Engineering / ML Engineering student at the African Leadership University. I work across cybersecurity, machine learning, and software development.
 
 I like building tools that solve real problems: scam and threat detection, machine learning models, and full-stack apps. I work mostly in Python and JavaScript/Flutter, and I'm currently focused on machine learning for fraud detection.
 
