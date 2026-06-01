@@ -2,13 +2,11 @@
 # Wilsons Navid's Portfolio
 
 ## About Me
-Hello! I'm Wilsons Navid, a visionary technologist driven by the fascinating confluence of cybersecurity 🛡️,machine learning 🤖, and software development 💻. My journey in technology began with a simple curiosity about how things work and has blossomed into a profound passion for creating secure, intelligent, and transformative solutions.
+I'm Wilsons Navid, a final-year Software Engineering student at the African Leadership University. I work across cybersecurity, machine learning, and software development.
 
-I believe that in today's digital world, the synergy between security and intelligence is paramount. With a robust foundation in Programming and diverse experience in Project management, Design thinking. I am dedicated to pushing the boundaries of what's possible. Whether it's safeguarding sensitive data, building predictive models, or developing cutting-edge software, my mission is to make technology safer, smarter, and more accessible 🌐.
+I like building tools that solve real problems: scam and threat detection, machine learning models, and full-stack apps. I work mostly in Python and JavaScript/Flutter, and I'm currently focused on machine learning for fraud detection.
 
-In every project I undertake, I strive to blend innovation with practicality, ensuring that my solutions are not only groundbreaking but also reliable and user-friendly. I am constantly learning 📚, experimenting 🧪, and collaborating with like-minded professionals to stay at the forefront of technological advancements.
-
-Let's build a secure and intelligent future together! 🚀
+Open to collaborating, so feel free to reach out.
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, C++, Flutter, Django, Ruby, C, C#
@@ -83,7 +81,3 @@ Let's build a secure and intelligent future together! 🚀
 [Optional section if you write about topics in cybersecurity, machine learning, or software development]
 - **[Blog Post Title 1]**: A brief description or excerpt of the post. [Read more](https://link-to-blog-post)
 - **[Blog Post Title 2]**: A brief description or excerpt of the post. [Read more](https://link-to-blog-post)
-
----
-
-*Feel free to reach out if you have any questions or if you'd like to collaborate on a project!*
